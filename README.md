@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Rohitpaswan/count.svg?"  />
-</div>
-
-###
-
 <h1 align="left">Hi 👋, I'm Rohit Paswan</h1>
 
 ###
