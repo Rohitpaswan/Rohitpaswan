@@ -10,7 +10,7 @@
 
 ###
 
-<h6 align="left">- 👨‍💻 All of my projects are available at [https://portfolio-six-livid-30.vercel.app/](https://portfolio-six-livid-30.vercel.app/)</h6>
+<h6 align="left">- 👨‍💻 All of my projects are available at [https://portfolio-six-livid-30.vercel.app/]</h6>
 
 ###
 
